@@ -14,3 +14,4 @@ public class MaximumArray {
         System.out.println("Maximum element: " + max);
     }
 }
+//output : Maximum element: 89
