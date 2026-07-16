@@ -4,7 +4,7 @@ public class MinimumArray {
         int[] arr = {12, 45, 7, 89, 34, 56};
 
         int min = arr[0];
-        
+    
         for (int i = 1; i < arr.length; i++) {
             if (arr[i] < min) {
                 min = arr[i];
